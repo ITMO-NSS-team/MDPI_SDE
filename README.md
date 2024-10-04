@@ -1,7 +1,9 @@
-# DS2024_SDE
-Code for paper Stochastic differential equation discovery using evolutionary approach submitted to Discovery Science 2024 conference.
+# MDPIv
+Code for paper Algorithm of stochastic differential equation discovery with evolutionary approach submitted to MDPI ALgorihtms Journal.
 The repository includes the results of numerical experiments presented in the study:
-- Dynamics of the behavior of the open-price equation depending on the selected interval: day, month, quarter. Input data is provided.
+- Dynamics of the behavior of the open-price equation depending on the selected interval;
+- Lotka-Volterra equation;
+- ECG200 stusy.
 
 ###  Modules used:
 - Algorithm for searching differential equations from data (https://github.com/ITMO-NSS-team/EPDE)
