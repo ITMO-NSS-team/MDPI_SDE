@@ -1,4 +1,4 @@
-# MDPIv
+# MDPI
 Code for paper Algorithm of stochastic differential equation discovery with evolutionary approach submitted to MDPI ALgorihtms Journal.
 The repository includes the results of numerical experiments presented in the study:
 - Dynamics of the behavior of the open-price equation depending on the selected interval;
